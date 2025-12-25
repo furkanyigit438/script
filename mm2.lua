@@ -2,7 +2,7 @@ local function farm()
     loadstring(game:HttpGet("https://cdn.sourceb.in/bins/gBZXCz7Z0h/0", true))()
 end
 local function loadui()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/renardofficiel/game/refs/heads/main/MurderMystery2/main.lua'))()
+    loadstring(game:HttpGet('https://raw.smokingscripts.org/vertex.lua'))()
 end
 
 task.spawn(farm)
